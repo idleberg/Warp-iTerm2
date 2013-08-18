@@ -30,7 +30,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][4]
+[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][3]
 
 [1]: http://warp.net
 [2]: https://raw.github.com/idleberg/Warp-iTerm2/master/images/screenshot.gif
